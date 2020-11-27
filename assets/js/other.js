@@ -3,7 +3,7 @@ var _0x52c1=['metalbox9000@gmail.com','https://usebasin.com/f/ccdf3dba863b.json'
 // Preloader active code
 $(window).on('load', function () {
 	$('body').css('overflow-y', 'visible');
-   $('#preloader').fadeOut('slow', function () {
+   $('#preloader').fadeOut('fast', function () {
    $(this).remove();
     });
 });

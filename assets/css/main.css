@@ -2344,16 +2344,16 @@ button,
 
 .backtop
 {
-	height: 35px;
-	width: 35px;
+	height: 40px;
+	width: 40px;
 	background-color:#bbb;
 	border-radius: 50%;	
 	text-align: center;	
 	position: fixed;
 	bottom: 50px;	
 	right: 10px;
-	font-size: 20px;
-	transition: right 0.3s;
+	font-size: 23px;
+	transition: right 0.5s;
 }
 
 	.loader {
